@@ -1,0 +1,15 @@
+{
+  "name": "machinateur/manifest",
+  "description": "The code style .editorconfig for phpstorm.",
+  "type": "metapackage",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marcel",
+      "email": "hello@machinateur.dev",
+      "homepage": "machinateur.dev"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
