@@ -1,6 +1,6 @@
 {
   "name": "machinateur/manifest",
-  "description": "The code style .editorconfig for phpstorm.",
+  "description": "The code style `.editorconfig` for phpstorm. Also home to my phpstorm copyright profiles.",
   "type": "metapackage",
   "license": "MIT",
   "authors": [
