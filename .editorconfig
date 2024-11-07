@@ -1,6 +1,6 @@
 [*]
 charset = utf-8
-end_of_line = crlf
+end_of_line = lf
 indent_size = 4
 indent_style = space
 insert_final_newline = false
@@ -520,7 +520,7 @@ ij_php_align_key_value_pairs = true
 ij_php_align_match_arm_bodies = true
 ij_php_align_multiline_array_initializer_expression = true
 ij_php_align_multiline_binary_operation = false
-ij_php_align_multiline_chained_methods = false
+ij_php_align_multiline_chained_methods = true
 ij_php_align_multiline_extends_list = false
 ij_php_align_multiline_for = true
 ij_php_align_multiline_parameters = true
@@ -623,7 +623,7 @@ ij_php_lower_case_boolean_const = true
 ij_php_lower_case_keywords = true
 ij_php_lower_case_null_const = true
 ij_php_method_brace_style = next_line
-ij_php_method_call_chain_wrap = off
+ij_php_method_call_chain_wrap = split_into_lines
 ij_php_method_parameters_new_line_after_left_paren = false
 ij_php_method_parameters_right_paren_on_new_line = false
 ij_php_method_parameters_wrap = off
